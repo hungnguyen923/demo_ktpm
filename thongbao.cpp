@@ -4,7 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout<<"Thong bao dau tien";
-	cout << "Thong bao thu ha1";
+    cout << "Xin chao"
     return 0;
 }
